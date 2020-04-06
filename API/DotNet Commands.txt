@@ -1,0 +1,15 @@
+dotnet new classlib -o Core
+dotnet sln add Core
+dotnet add reference ../Infrastructure
+dotnet restore
+dotnet build
+dotnet watch run
+
+
+dotnet --info
+dotnet tool install --global dotnet-ef
+
+dotnet ef --help
+dotnet ef migrations add InitialCreate -o Data/Migrations
+dotnet ef database update
+
