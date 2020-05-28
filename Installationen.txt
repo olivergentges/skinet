@@ -1,0 +1,6 @@
+*** Für Angular ***
+
+- node.js
+  Link : nodejs.org/en/
+  Bemerkung : Current Version installieren
+    
