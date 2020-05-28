@@ -1,0 +1,11 @@
+Eine neue Angular Applikation erstellen:
+- In cmd in das Verzeichnis wechseln, in dem das neue Projekt angelegt wwerden soll.
+  (D:\Daten\Demo\skinet)
+- > ng new client
+    Would you like to add Angular routing? -> Yes
+    Which stylesheet format would you like to use? -> SCSS
+Bemerkung : Danach wurde die neue Apllikation im Verzeichnis client angelegt.
+
+Eine Angular Applikation starten:
+- In VS Code ein Terminal Fenster öffnen und das Applikations-Verzeichnis wechseln (D:\Daten\Demo\skinet\client)
+- > ng serve

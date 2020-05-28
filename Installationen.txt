@@ -1,6 +1,23 @@
-*** Für Angular ***
+*** Für Angular allgemein***
 
-- node.js
-  Link : nodejs.org/en/
+node.js
+  Installations-Link : http://nodejs.org/en/
   Bemerkung : Current Version installieren
-    
+
+Angular CLI
+  Link : http://cli.angular.io/
+  Installation mittels npm cmd-Befehl : npm install -g @angular/cli
+
+
+
+
+*** Packages innerhalb der Applikation installieren
+
+Angular Bootstrap (Bemerkung: Bootstrap ohne jQuery!)
+  Link : https://valor-software.com/ngx-bootstrap/#/
+  - In VS Code Terminal Fenster öffnen und in das Verzeichnis der App wechseln (D:\Daten\Demo\skinet\client)   
+  - > ng add ngx-bootstrap 
+
+font-awesome (Icon set)
+  - In VS Code Terminal Fenster öffnen und in das Verzeichnis der App wechseln (D:\Daten\Demo\skinet\client)   
+  - > npm install font-awesome
