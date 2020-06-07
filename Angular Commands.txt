@@ -9,3 +9,8 @@ Bemerkung : Danach wurde die neue Apllikation im Verzeichnis client angelegt.
 Eine Angular Applikation starten:
 - In VS Code ein Terminal Fenster öffnen und das Applikations-Verzeichnis wechseln (D:\Daten\Demo\skinet\client)
 - > ng serve
+
+Eine Angular Komponente erzeugen
+- In VS Code ein Terminal Fenster öffnen und das Applikations-Verzeichnis wechseln (D:\Daten\Demo\skinet\client)
+- In das Verzeichnis src/app wechseln
+- > ng g c <Komponentenname> --skip-tests (z.b. ng g c nav-bar --skip-tests)

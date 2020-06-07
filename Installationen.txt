@@ -1,3 +1,17 @@
+*** Erweiterungen für VS Code ***
+- Angular Language Service (von Angular)
+- Angular Snippets (von John Papa)
+- Prettier - Code formatter (von Esben Petersen)
+- Bracket Pair Colorizer 2 (von CoenraadS)
+- TSLint (von Microsoft)
+- Debugger for Chrome (von Microsoft)
+- Auto Import (von steoates)
+- Material Icon Theme (von Philipp Kief)
+- Path Intellisense (von Christian Kohler)
+- json2ts (von Gregor Biswanger)
+
+
+
 *** Für Angular allgemein***
 
 node.js
@@ -6,7 +20,7 @@ node.js
 
 Angular CLI
   Link : http://cli.angular.io/
-  Installation mittels npm cmd-Befehl : npm install -g @angular/cli
+  Installation mittels npm cmd-Befehl : npm install @angular/cli --global
 
 
 
