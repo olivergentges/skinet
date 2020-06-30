@@ -1,3 +1,4 @@
+import { HomeModule } from './home/home.module';
 import { CoreModule } from './core/core.module';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
@@ -22,7 +23,8 @@ import { FormsModule } from '@angular/forms';
     BrowserAnimationsModule,
     HttpClientModule,
     CoreModule,
-    ShopModule
+    ShopModule,
+    HomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
