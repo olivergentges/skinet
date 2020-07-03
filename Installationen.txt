@@ -35,3 +35,7 @@ Angular Bootstrap (Bemerkung: Bootstrap ohne jQuery!)
 font-awesome (Icon set)
   - In VS Code Terminal Fenster öffnen und in das Verzeichnis der App wechseln (D:\Daten\Demo\skinet\client)   
   - > npm install font-awesome
+
+ngx-toastr (Popup Fenster für Meldungen z.B. Fehlermeldungen)
+  - In VS Code Terminal Fenster öffnen und in das Verzeichnis der App wechseln (D:\Daten\Demo\skinet\client)   
+  - > npm install ngx-toastr
