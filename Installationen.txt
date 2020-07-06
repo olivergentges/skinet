@@ -39,3 +39,7 @@ font-awesome (Icon set)
 ngx-toastr (Popup Fenster für Meldungen z.B. Fehlermeldungen)
   - In VS Code Terminal Fenster öffnen und in das Verzeichnis der App wechseln (D:\Daten\Demo\skinet\client)   
   - > npm install ngx-toastr
+
+xng-breadcrump (Anzeige des aktuellen Pfades in der aktuellen Komponente)
+  - In VS Code Terminal Fenster öffnen und in das Verzeichnis der App wechseln (D:\Daten\Demo\skinet\client)
+  - > npm install --save xng-breadcrumb
