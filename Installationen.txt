@@ -43,3 +43,11 @@ ngx-toastr (Popup Fenster für Meldungen z.B. Fehlermeldungen)
 xng-breadcrump (Anzeige des aktuellen Pfades in der aktuellen Komponente)
   - In VS Code Terminal Fenster öffnen und in das Verzeichnis der App wechseln (D:\Daten\Demo\skinet\client)
   - > npm install --save xng-breadcrumb
+
+bootswatch (Theme for bootstrap)
+  - In VS Code Terminal Fenster öffnen und in das Verzeichnis der App wechseln (D:\Daten\Demo\skinet\client)   
+  - > npm install bootswatch
+
+ngx-spinner (loading indicator)
+  - In VS Code Terminal Fenster öffnen und in das Verzeichnis der App wechseln (D:\Daten\Demo\skinet\client)   
+  - > npm install ngx-spinner

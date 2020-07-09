@@ -209,3 +209,49 @@
 2020-07-08T09:02:44.213Z - debug:  [13396] TFVC errors (via stderr): Der Quellcodeverwaltungsserver kann nicht bestimmt werden.
 
 2020-07-08T09:02:44.214Z - error:  [13396] Execution of the TFVC command line failed unexpectedly.
+2020-07-08T13:37:59.945Z - info:   [19344] *** FOLDER: d:\Daten\Projekte\VisualStudio\skinet ***
+2020-07-08T13:37:59.946Z - info:   [19344] AzureReposVSCode/1.161.0 (VSCode 1.46.1; Windows_NT 10.0.18363; Node 12.8.1)
+2020-07-08T13:37:59.947Z - debug:  [19344] Looking for an External Context at d:\Daten\Projekte\VisualStudio\skinet
+2020-07-08T13:37:59.947Z - debug:  [19344] No External Context at d:\Daten\Projekte\VisualStudio\skinet
+2020-07-08T13:37:59.955Z - debug:  [19344] Looking for TFVC repository at d:\Daten\Projekte\VisualStudio\skinet
+2020-07-08T13:37:59.955Z - debug:  [19344] TFVC Creating Tfvc object with localPath='undefined'
+2020-07-08T13:37:59.956Z - debug:  [19344] Using TFS proxy: 
+2020-07-08T13:37:59.956Z - debug:  [19344] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\TeamExplorer\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2020-07-08T13:37:59.956Z - debug:  [19344] TFVC Repository created with repositoryRootFolder='d:\Daten\Projekte\VisualStudio\skinet'
+2020-07-08T13:37:59.957Z - debug:  [19344] TFVC Repository.CheckVersion
+2020-07-08T13:37:59.957Z - debug:  [19344] TFVC: tf add -noprompt -?
+2020-07-08T13:37:59.964Z - debug:  [19344] TFVC: spawned new process (duration: 6ms)
+2020-07-08T13:37:59.976Z - debug:  [19344] TFVC: spawned new process (duration: 12ms)
+2020-07-08T13:38:00.763Z - debug:  [19344] TFVC: add exit code: 0 (duration: 806ms)
+2020-07-08T13:38:00.764Z - debug:  [19344] TFVC Minimum required version: 14.102.0
+2020-07-08T13:38:00.764Z - debug:  [19344] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2020-07-08T13:38:00.764Z - debug:  [19344] TFVC Repository.FindWorkspace with localPath='d:\Daten\Projekte\VisualStudio\skinet'
+2020-07-08T13:38:00.765Z - debug:  [19344] TFVC: tf workfold -noprompt ********
+2020-07-08T13:38:00.775Z - debug:  [19344] TFVC: spawned new process (duration: 10ms)
+2020-07-08T13:38:01.068Z - debug:  [19344] TFVC: workfold exit code: 100 (duration: 303ms)
+2020-07-08T13:38:01.070Z - debug:  [19344] TFVC errors (via stderr): Der Quellcodeverwaltungsserver kann nicht bestimmt werden.
+
+2020-07-08T13:38:01.070Z - error:  [19344] Execution of the TFVC command line failed unexpectedly.
+2020-07-09T11:56:32.226Z - info:   [14368] *** FOLDER: d:\Daten\Projekte\VisualStudio\skinet ***
+2020-07-09T11:56:32.227Z - info:   [14368] AzureReposVSCode/1.161.0 (VSCode 1.46.1; Windows_NT 10.0.18363; Node 12.8.1)
+2020-07-09T11:56:32.227Z - debug:  [14368] Looking for an External Context at d:\Daten\Projekte\VisualStudio\skinet
+2020-07-09T11:56:32.227Z - debug:  [14368] No External Context at d:\Daten\Projekte\VisualStudio\skinet
+2020-07-09T11:56:32.237Z - debug:  [14368] Looking for TFVC repository at d:\Daten\Projekte\VisualStudio\skinet
+2020-07-09T11:56:32.238Z - debug:  [14368] TFVC Creating Tfvc object with localPath='undefined'
+2020-07-09T11:56:32.238Z - debug:  [14368] Using TFS proxy: 
+2020-07-09T11:56:32.238Z - debug:  [14368] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\TeamExplorer\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2020-07-09T11:56:32.239Z - debug:  [14368] TFVC Repository created with repositoryRootFolder='d:\Daten\Projekte\VisualStudio\skinet'
+2020-07-09T11:56:32.240Z - debug:  [14368] TFVC Repository.CheckVersion
+2020-07-09T11:56:32.240Z - debug:  [14368] TFVC: tf add -noprompt -?
+2020-07-09T11:56:32.270Z - debug:  [14368] TFVC: spawned new process (duration: 29ms)
+2020-07-09T11:56:32.290Z - debug:  [14368] TFVC: spawned new process (duration: 20ms)
+2020-07-09T11:56:32.920Z - debug:  [14368] TFVC: add exit code: 0 (duration: 679ms)
+2020-07-09T11:56:32.921Z - debug:  [14368] TFVC Minimum required version: 14.102.0
+2020-07-09T11:56:32.921Z - debug:  [14368] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2020-07-09T11:56:32.921Z - debug:  [14368] TFVC Repository.FindWorkspace with localPath='d:\Daten\Projekte\VisualStudio\skinet'
+2020-07-09T11:56:32.921Z - debug:  [14368] TFVC: tf workfold -noprompt ********
+2020-07-09T11:56:32.927Z - debug:  [14368] TFVC: spawned new process (duration: 6ms)
+2020-07-09T11:56:33.092Z - debug:  [14368] TFVC: workfold exit code: 100 (duration: 171ms)
+2020-07-09T11:56:33.094Z - debug:  [14368] TFVC errors (via stderr): Der Quellcodeverwaltungsserver kann nicht bestimmt werden.
+
+2020-07-09T11:56:33.095Z - error:  [14368] Execution of the TFVC command line failed unexpectedly.
