@@ -1,3 +1,16 @@
+*** Für Entwicklungsmaschine allgemein ***
+git (Versionsverwaltung)
+ Installations-Link : https://git-scm.com/
+
+Postman (Testprogramm für Web-APIs)
+ Installations-Link : https://www.postman.com/
+
+.NET Core SDK
+ Installations-Link : https://dotnet.microsoft.com/download
+
+Visual Studio Code
+ Installations-Link : https://code.visualstudio.com/
+
 *** Erweiterungen für VS Code ***
 - C# for Visual Studio Code (von Microsoft)
 - C# Extensions (von JosKreativ)
@@ -16,6 +29,19 @@
 
 
 
+*** Packages innerhalb des Web-API-Projektes installieren
+
+Entity Framework Core
+  - In VS Code NuGet-Package-Manager öffnen (F1 drücken und dann "NuGet Package Manager : Add Package" auswählen)
+  - "Microsoft.EntityFrameworkCore" auswählen
+  - Gewünschte Version auswählen
+
+SQL-Server Provider für Entity Framework Core
+  - In VS Code NuGet-Package-Manager öffnen (F1 drücken und dann "NuGet Package Manager : Add Package" auswählen)
+  - "Microsoft.EntityFrameworkCore.SqlServer" auswählen
+  - Gewünschte Version auswählen
+   
+
 *** Für Angular allgemein***
 
 node.js
@@ -29,7 +55,7 @@ Angular CLI
 
 
 
-*** Packages innerhalb der Applikation installieren
+*** Packages innerhalb des Angular-Projektes installieren
 
 Angular Bootstrap (Bemerkung: Bootstrap ohne jQuery!)
   Link : https://valor-software.com/ngx-bootstrap/#/
