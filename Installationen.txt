@@ -1,4 +1,7 @@
 *** Erweiterungen für VS Code ***
+- C# for Visual Studio Code (von Microsoft)
+- C# Extensions (von JosKreativ)
+- NuGet Package Manager (von jmrog)
 - Angular Language Service (von Angular)
 - Angular Snippets (von John Papa)
 - Prettier - Code formatter (von Esben Petersen)
@@ -9,6 +12,7 @@
 - Material Icon Theme (von Philipp Kief)
 - Path Intellisense (von Christian Kohler)
 - json2ts (von Gregor Biswanger)
+- SQLite (von alexcvzz)
 
 
 
