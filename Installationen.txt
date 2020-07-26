@@ -11,6 +11,24 @@ Postman (Testprogramm für Web-APIs)
 Visual Studio Code
  Installations-Link : https://code.visualstudio.com/
 
+Chocolatey (Package Manager für Windows)
+ Link: chocolatey.org
+ Installation :
+ - Seite chocolatey.org in Chrome öffnen
+ - Get Started
+ - Den Anweisungen für die Installation folgen
+
+
+Redis (In Memory Database)
+ Link: https://redis.io/download
+ Installation über Chocolatey:
+ - Powershell als Admin öffnen
+ - > choco install redis-64 --version=3.0.503
+
+
+
+
+
 *** Erweiterungen für VS Code ***
 - C# for Visual Studio Code (von Microsoft)
 - C# Extensions (von JosKreativ)
